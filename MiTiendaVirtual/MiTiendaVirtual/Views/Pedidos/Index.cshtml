@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MiTiendaVirtual.Models.Pedido>
+
+@{
+    ViewData["Title"] = "Pedidos";
+}
+
+<h2>Lista de Pedidos</h2>
+
+<table class="table table-striped table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Id del Pedido</th>
+            <th>Fecha</th>
+            <th>Monto Total</th>
+            <th>Estado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.FechaHora?.ToShortDateString()</td> <!-- solo fecha -->
+                <td>@p.Total?.ToString("C")</td>            <!-- formato moneda -->
+                <td>@p.Estado</td>
+            </tr>
+        }
+    </tbody>
+</table>

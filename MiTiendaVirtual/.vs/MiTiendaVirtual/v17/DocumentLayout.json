@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\models\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\productoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\tarjetas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\tarjetas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\tarjetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\pedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\views\\categorias\\mostrarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\views\\categorias\\mostrarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\admin\\desktop\\mitiendavirtual\\mitiendavirtual\\mitiendavirtual\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393BE6B3-0EC7-4FE7-A1B2-3D4915FA4959}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\ProductoViewModel.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\ProductoViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\ProductoViewModel.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Models\\ProductoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:02:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:28:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Producto.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:33:58.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T11:08:36.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Tarjetas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Tarjetas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Tarjetas\\Index.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Tarjetas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T17:29:55.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TarjetasController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\TarjetasController.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\TarjetasController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\TarjetasController.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Controllers\\TarjetasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:28:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:17:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T16:54:01.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TiendaVirtualDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:43:37.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Pedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Pedidos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Pedidos\\Index.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Pedidos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T17:21:03.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T13:24:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:31:17.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T17:32:04.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:53:21.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Categoria.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T14:26:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:26:27.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T14:36:55.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MostrarCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Categorias\\MostrarCategoria.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Categorias\\MostrarCategoria.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Categorias\\MostrarCategoria.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Categorias\\MostrarCategoria.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T13:13:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MiTiendaVirtual\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T14:24:58.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Program.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Program.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T09:43:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\MiTiendaVirtual\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Marca.cs",
+              "RelativeToolTip": "MiTiendaVirtual\\Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T10:30:10.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

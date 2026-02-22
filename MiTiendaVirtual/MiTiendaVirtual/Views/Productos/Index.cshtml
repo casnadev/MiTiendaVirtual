@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MiTiendaVirtual.Models.ProductoViewModel>
+
+@{
+    ViewData["Title"] = "PRODUCTOS";
+}
+
+<h1>Lista de Productos</h1>
+
+<table class="table table-striped table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Destacado</th>
+            <th>Activo</th>
+            <th>Categoría</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Nombre</td>
+                <td>@item.Precio.ToString("C")</td> <!-- Formato moneda -->
+                <td>@(item.Destacado ? "Sí" : "No")</td>
+                <td>@(item.Activo ? "Sí" : "No")</td>
+                <td>@item.NombreCategoria</td>
+            </tr>
+        }
+    </tbody>
+</table>
